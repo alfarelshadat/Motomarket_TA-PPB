@@ -50,7 +50,7 @@ const Profile = () => {
               <div className="text-left space-y-4">
                 <InfoItem label="NIM" value="21120123140140" />
                 <InfoItem label="Jurusan" value="Teknik Komputer" />
-                <InfoItem label="Universitas" value="Universitas Diponegoro" />
+                <InfoItem label="Universitas" value="Diponegoro" />
               </div>
             </div>
           </div>
