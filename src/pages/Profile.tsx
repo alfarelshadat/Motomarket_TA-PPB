@@ -34,23 +34,23 @@ const Profile = () => {
                 <div className="w-full h-full bg-white rounded-full flex items-center justify-center overflow-hidden">
                    <FaUser className="text-6xl text-gray-300" />
                    {/* Jika ada foto profil asli, ganti FaUser dengan <img> */}
-                   {/* <img src="/path/to/photo.jpg" alt="Mario Sianturi" className="w-full h-full object-cover" /> */}
+                   
                 </div>
               </div>
               
-              <h2 className="font-heading font-bold text-2xl text-textPrimary mb-1">Mario Sianturi</h2>
+              <h2 className="font-heading font-bold text-2xl text-textPrimary mb-1">Alfarel Nawall Putra Shadat</h2>
               <p className="text-accent font-medium text-sm mb-6">Fullstack Developer</p>
               
               <div className="flex justify-center gap-4 mb-8">
-                <SocialLink href="https://github.com/mariosianturi19" icon={<FaGithub />} />
-                <SocialLink href="#" icon={<FaLinkedin />} />
-                <SocialLink href="mailto:email@example.com" icon={<FaEnvelope />} />
+                <SocialLink href="https://github.com/alfarelshadat" icon={<FaGithub />} />
+                <SocialLink href="https://www.linkedin.com/in/alfarelshadat/" icon={<FaLinkedin />} />
+                <SocialLink href="alfarelshadat@gmail.com" icon={<FaEnvelope />} />
               </div>
 
               <div className="text-left space-y-4">
-                <InfoItem label="NIM" value="22000000" />
-                <InfoItem label="Jurusan" value="Teknik Informatika" />
-                <InfoItem label="Universitas" value="Universitas Mikroskil" />
+                <InfoItem label="NIM" value="21120123140140" />
+                <InfoItem label="Jurusan" value="Teknik Komputer" />
+                <InfoItem label="Universitas" value="Universitas Diponegoro" />
               </div>
             </div>
           </div>
