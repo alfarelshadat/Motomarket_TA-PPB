@@ -19,9 +19,9 @@ const Footer = () => {
               Temukan motor impianmu atau jual motor lamamu dengan mudah dan aman.
             </p>
             <div className="flex gap-4">
-              <SocialIcon icon={<FaGithub />} href="https://github.com" />
-              <SocialIcon icon={<FaInstagram />} href="https://instagram.com" />
-              <SocialIcon icon={<FaLinkedin />} href="https://linkedin.com" />
+              <SocialIcon icon={<FaGithub />} href="https://github.com/alfarelshadat" />
+              <SocialIcon icon={<FaInstagram />} href="https://www.instagram.com/alfarelnps_/" />
+              <SocialIcon icon={<FaLinkedin />} href="https://www.linkedin.com/in/alfarelshadat/" />
             </div>
           </div>
 
